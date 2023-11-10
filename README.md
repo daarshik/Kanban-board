@@ -152,4 +152,4 @@ METHODS:
 
 }
 
-P.s. I have also impolemented the drag and drop functionality but there is small issue due to which this functionality will only be triggered only if some changes are done to the codebase. Also i could have solved this if i had more time. Thankyou for your time!
+P.s. I have also impelemented the drag and drop functionality but there is small issue due to which this functionality will only be triggered only if some changes are done to the codebase. Also i could have solved this if i had more time. Thankyou for your time!
